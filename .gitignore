@@ -1,0 +1,17 @@
+# Cache et état de l'espace de travail Obsidian (ne pas versionner)
+.obsidian/workspace.json
+.obsidian/workspace-mobile.json
+.obsidian/cache
+.obsidian/.cache
+
+# Corbeille Obsidian
+.trash/
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Fichiers temporaires OneDrive
+*.tmp
+~$*
